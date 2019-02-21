@@ -1,0 +1,3 @@
+rootProject.name = 'war_of_the_relms_1024'
+
+include ':app'
